@@ -18,3 +18,7 @@ This repository contains Python code for analyzing X-ray diffraction (XRD) data 
    ```bash
    git clone https://github.com/chetanath/Magnetic-peak-fitting-directly-from-.spec-file-.git
    cd Magnetic-peak-fitting-directly-from-.spec-file-
+
+
+pip install -r requirements.txt
+python spec_peak_fitting.py
